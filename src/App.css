@@ -6,7 +6,17 @@
   height: 1000px;
 }
 
+.elephant {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+  transform: translate(-50% , -50%);
+}
+
 .baby {
   height: 100%;
   width: 100%;
 }
+
